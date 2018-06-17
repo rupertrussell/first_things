@@ -1,3 +1,11 @@
+// Design inspired by the graphic on page 2 of Islamic Design a Genius for Geometry by David Sutton Published by http://www.woodenbooks.com
+// Islamic Design, a Genius for Geometry by Daud Sutton.
+// ISBN UK 1-904263-59-3
+// US 0-802716-35-0
+// By Rupert Russell
+// Design avaiable on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/32271168-first-things-first?asc=u
+
+
 float xCenter = 3600 /2;
 float yCenter = 3600 /2;
 
